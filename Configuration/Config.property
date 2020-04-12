@@ -1,0 +1,10 @@
+chromeDriver= C:\\Users\\ganu\\eclipse-workspace\\Demoblaze\\src\\test\\resources\\Binaries\\chromedriver.exe
+
+
+firefoxDriver= C:\\Users\\ganu\\eclipse-workspace\\Demoblaze\\src\\test\\resources\\Binaries\\geckodriver.exe
+
+
+URL= https://www.demoblaze.com/
+
+
+Excelpath= C:\\Users\\ganu\\eclipse-workspace\\Demoblaze\\src\\test\\resources\\XLSX\\TestData.xlsx
